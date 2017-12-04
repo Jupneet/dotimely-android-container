@@ -1,0 +1,21 @@
+"nativeApps":[
+   {
+      "name":"DoTimely",
+      "platforms":[
+         {
+            "name":"android",
+            "config":{
+               "containerGenerator":{
+                  "containerVersion":"1.0.0",
+                  "publishers":[
+                     {
+                        "name":"github",
+                        "url":"https://github.com/Jupneet/dotimely-android-container.git"
+                     }
+                  ]
+               }
+            }
+         }
+      ]
+   }
+]
